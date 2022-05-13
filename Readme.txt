@@ -9,5 +9,5 @@ Created by: IMP - Iasmin Marques Pereira
 Author: https://iasminmarques.com.br/
 
 
-Para visualizar esse projeto clique e veja: https://iasminimp.github.io/minicurso_python/
+Para visualizar esse projeto clique e veja: https://python.iasminmarques.com.br/
 
