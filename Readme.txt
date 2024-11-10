@@ -1,5 +1,4 @@
-
-#Projeto MiniCurso - Python
+# Projeto MiniCurso - Python
 
 
 Aprendendo matemática por meio do Python.
